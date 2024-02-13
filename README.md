@@ -4,9 +4,9 @@
 |:-----------|:-------------------------------------------------------------------------------------------------------|:----------------------------------------------:|:----------:|
 | CPP 00     | - Namespace<br>- Classes<br>- Fonctions membres<br>- Stdio stream<br>- Listes d'initialisation<br>- Static<br>- Const | [🔗](https://github.com/Madness807/CPP_00)    | ✅        |
 | CPP 01     | - Memory allocation<br>- Pointers to members<br>- References<br>- Switch statement                     | [🔗](https://github.com/Madness807/CPP_01)    | ✅        |
-| CPP 02     | - Polymorphisme ad-hoc<br>- Surcharge d'opérateurs<br>- Forme canonique                               | [🔗](https://github.com/Madness807/CPP_02)    | 🟩        |
-| CPP 03     | - Inheritance                                                                                          | [🔗](https://github.com/Madness807/CPP_03)    | 🟩        |
-| CPP 04     | - Subtype polymorphism<br>- Abstract classes<br>- Interfaces                                          | [🔗](https://github.com/Madness807/CPP_04)    | 🔒        |
+| CPP 02     | - Polymorphisme ad-hoc<br>- Surcharge d'opérateurs<br>- Forme canonique                               | [🔗](https://github.com/Madness807/CPP_02)    | ✅        |
+| CPP 03     | - Inheritance                                                                                          | [🔗](https://github.com/Madness807/CPP_03)    | ✅        |
+| CPP 04     | - Subtype polymorphism<br>- Abstract classes<br>- Interfaces                                          | [🔗](https://github.com/Madness807/CPP_04)    | 🟩         |
 
 ## 🔵 5
 | **Projet** | **Techno**                                                                                            | **Repo**                                      | **Status** |

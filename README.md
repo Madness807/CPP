@@ -12,7 +12,7 @@
 | **Projet** | **Techno**                                                                                            | **Repo**                                      | **Status** |
 |:-----------|:-----------------------------------------------------------------------------------------------------|:----------------------------------------------:|:----------:|
 | CPP 05     | - Repetition<br>- Exception                                                                           | [🔗](https://github.com/Madness807/CPP_05)    | ✅        |
-| CPP 06     | - C++ casts                                                                                          | [🔗](https://github.com/Madness807/CPP_06)    | 🚧        |
-| CPP 07     | - C++ templates                                                                                      | [🔗](https://github.com/Madness807/CPP_07)    | 🚧        |
+| CPP 06     | - C++ casts                                                                                          | [🔗](https://github.com/Madness807/CPP_06)    | ✅        |
+| CPP 07     | - C++ templates                                                                                      | [🔗](https://github.com/Madness807/CPP_07)    | ✅        |
 | CPP 08     | - Containers templates<br>- Iterateurs<br>- Algoritmes                                               | [🔗](https://github.com/Madness807/CPP_08)    | 🚧        |
 | CPP 09     | - STL                                                                                                | [🔗](https://github.com/Madness807/CPP_09)    | 🚧        |
